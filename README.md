@@ -106,7 +106,9 @@ Estudante de programação, com foco no aprendizado de JavaScript e no desenvolv
 
 Um relógio digital desenvolvido com HTML, CSS e JavaScript.
 
-![Prévia do Relógio Virtual](./relogio-preview.png)
+
+![Prévia do Relógio Virtual](./assets/img/relogio-preview.png)
+
 
 
 [🚀 Acessar o projeto online](https://guiilherme-reis.github.io/Relogio-virtual-/)
